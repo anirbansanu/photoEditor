@@ -1,0 +1,3 @@
+{
+    "files": ["qml/controls/SmallWindow.qml","qml/controls/TopBarMenuItem.qml","qml/controls/TopBarMenuBtns.qml","qml/controls/TopMenusBtn.qml","qml/ui/Panels.qml","qml/controls/PropertyWindow.qml","main.qml","qml/controls/LayerWindow.qml","main.py","qml/ui/LeftMenu.qml","qml/ui/WorkSpace.qml"]
+}
